@@ -1,5 +1,6 @@
 # Learning FlexBox
 
+
 ## Installation
 
 * create a new repository on GitHub
@@ -28,3 +29,8 @@
  it should usually be short and describe what you are committing for this first one though you can just type "first commit"
 
 * Push the code to GitHub `git push origin master`
+
+
+## Running the server
+
+* in your project directory run the command ``
