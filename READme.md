@@ -33,4 +33,4 @@
 
 ## Running the server
 
-* in your project directory run the command ``
+* in your project directory run the command `'browser-sync start --server --files "*.html, css/*.css, js/*.js"'` to start browser-sync
